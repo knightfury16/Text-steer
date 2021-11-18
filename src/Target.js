@@ -4,5 +4,4 @@ class Target{
         this.pos = createVector(x,y);
     }
 
-
 }
