@@ -1,5 +1,5 @@
 # Text-steer
-Rendering text as particles and sterring them to a particular place with behaviours.
+Rendering text as particles and steering them to a particular place with behaviors.
 
 # [**Run**](https://knightfury16.github.io/Text-steer/src/)
 
